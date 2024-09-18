@@ -35,7 +35,8 @@ Formatted the data into a table structure.
 Converted data types to ensure consistency
 The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
-![Uploading DataStandard.png…]()
+![DataStandard](https://github.com/user-attachments/assets/8dd1a2a6-3ba1-4d48-834a-23b792cceeb9)
+
 
 
 **Data Analysis**
