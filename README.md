@@ -4,6 +4,7 @@ KultureHire 60-day Data Analysis With Excel Virtual Internship-Gen Z Career Aspi
 **INTRODUCTION**
 Kulturehire is an intern program that gives opportunity to lay hands on real world project with topic (GEN-Z CARRER ASPIRATIONS)
 Differnt steps and tools were used in this projects, likes of (Google form, Excel Sql)
+
 **ABOUT THE PROJECT**
 The purpose of this project is to explore and understand the career aspirations of Generation Z (GenZ). The core problem revolves around GenZ individuals struggling to pursue their desired roles, with their aspirations often going unheard by employers. Furthermore, employers face significant challenges in attracting, retaining, and effectively managing Gen Z employees. In this project, India Gen z's response data alone was filtered and used as a case study, analysed and visulized with Excel.
 
@@ -11,18 +12,31 @@ The purpose of this project is to explore and understand the career aspirations 
 Problem Statement
 Problem statement was given by Kulturehire team and i was able to solve it using 5W1H Framework (Why, What, WHo,What, When, How). This leads to data collection
 
-Data Collection
+**Data Collection**
 The data was collecting using survey method, i created google form to collect information from respondents 
+[Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe9lwmeb9ngTaghNP90fdZuYha5uHbs29gDKJvCyWpF5LkxWA/viewform?usp=sf_link)
 
-Data Cleaning
-The dataset used for the project was given by Kulturehire team. KULTUREHIRE DATA SOURCE: 
-After getting thee data, the data was cleaned with excel to remove irrelevant information like duplicate values, data inconsistency
 
-Data Standardization
-Data stanadardization was then performed on the data to eradicate meaningless column heading, for example Gender of respondents was removed to Gender, this was done to reduce space and maintain data integrity. 
 
-Data Analysis
-The data was then analyzed with Excel using pivot tables to summarize the data and analysis which answer the given questions 
-Data Visualization
+**Data Cleaning and Standardization**
+The dataset used for the project was given by Kulturehire team. 
+[Kulturehire Data Source] () 
+Considerable time was devoted to data preprocessing, ensuring the accuracy and consistency of the data. This involved leveraging Excel's formulas, functions, and Power Query capabilities for data cleaning and standardization.
+
+**The following steps were taken for data cleaning and standardization:**
+
+Replaced text values with standardized equivalents.
+Filled blank rows with appropriate values.
+Renamed columns for enhanced clarity.
+Split certain columns where necessary.
+Formatted the data into a table structure.
+Converted data types to ensure consistency
+The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
+
+
+
+**Data Analysis**
+To uncover meaningful insights from the Gen Z career aspiration data, pivot tables were employed, enabling the analysis to effectively answer key business questions given by Kulturehire and other relevant hidden insights.
+
 
 
