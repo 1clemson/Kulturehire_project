@@ -16,11 +16,13 @@ Problem statement was given by Kulturehire team and i was able to solve it using
 The data was collecting using survey method, i created google form to collect information from respondents 
 [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSe9lwmeb9ngTaghNP90fdZuYha5uHbs29gDKJvCyWpF5LkxWA/viewform?usp=sf_link)
 
+![GF](https://github.com/user-attachments/assets/d0fe941b-4112-445e-b67b-e79bd3f59adb)
+
 
 
 **Data Cleaning and Standardization**
 The dataset used for the project was given by Kulturehire team. 
-[Kulturehire Data Source] () 
+[Kulturehire Data Source](https://docs.google.com/spreadsheets/d/1QrGs3rT9RwmBP46hZgfVvScUFPWN3wMCFWiRRmWY3cE/edit?usp=sharing) 
 Considerable time was devoted to data preprocessing, ensuring the accuracy and consistency of the data. This involved leveraging Excel's formulas, functions, and Power Query capabilities for data cleaning and standardization.
 
 **The following steps were taken for data cleaning and standardization:**
@@ -33,6 +35,7 @@ Formatted the data into a table structure.
 Converted data types to ensure consistency
 The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
+![Uploading DataStandard.png…]()
 
 
 **Data Analysis**
