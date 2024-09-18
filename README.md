@@ -27,9 +27,9 @@ Considerable time was devoted to data preprocessing, ensuring the accuracy and c
 
 **The following steps were taken for data cleaning and standardization:**
 
-Replaced text values with standardized equivalents.
-Filled blank rows with appropriate values.
-Renamed columns for enhanced clarity.
++ Replaced text values with standardized equivalents.
++ Filled blank rows with appropriate values.
++ Renamed columns for enhanced clarity.
 Split certain columns where necessary.
 Formatted the data into a table structure.
 Converted data types to ensure consistency
@@ -37,6 +37,7 @@ The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
 ![DataStandard](https://github.com/user-attachments/assets/8dd1a2a6-3ba1-4d48-834a-23b792cceeb9)
 
+![power query](https://github.com/user-attachments/assets/9586f708-2ea1-4dfa-80e4-f7bf344eef5b)
 
 
 **Data Analysis**
