@@ -55,10 +55,13 @@ First Dashboard (Gen Z career Aspiration) visulized the:
 + Work Learning Environment
 + Work Tenure for 3 Years
 
-**Data Interpretation:
-****Bar Chart: **** This chart shows the Carrer Aspiration distributions. Out of the seven carrer distribution present, Parents has the highest contribution in career aspiration while Friends contributed the lowest values.
-**Pie Chart: ** This chart shows the distribution between respondents who want to pursue their education, those who are not interested and those who needs sponsors. Gen-Z who will pursue higher education has the highest value while Gen-Z who needs sponsor has lowest contribution.
-**Area Chart: ** This chart shows the distribution between genders in India alone. Male has the highest contribution in gender distribution while others has the lowest values.
-**Bar Chart: ** This chart shows the distribution between respondents working with unidentified mission company. Respondents who will not accept the offer has highest contribution while respondents who will accept the offer has lowest contribution.
+**Data Interpretation:**
+**Bar Chart:** This chart shows the Carrer Aspiration distributions. Out of the seven carrer distribution present, Parents has the highest contribution in career aspiration while Friends contributed the lowest values.
+
+**Pie Chart:** This chart shows the distribution between respondents who want to pursue their education, those who are not interested and those who needs sponsors. Gen-Z who will pursue higher education has the highest value while Gen-Z who needs sponsor has lowest contribution.
+
+**Area Chart:** This chart shows the distribution between genders in India alone. Male has the highest contribution in gender distribution while others has the lowest values.
+
+**Bar Chart:**  This chart shows the distribution between respondents working with unidentified mission company. Respondents who will not accept the offer has highest contribution while respondents who will accept the offer has lowest contribution.
 
 
