@@ -30,10 +30,10 @@ Considerable time was devoted to data preprocessing, ensuring the accuracy and c
 + Replaced text values with standardized equivalents.
 + Filled blank rows with appropriate values.
 + Renamed columns for enhanced clarity.
-Split certain columns where necessary.
-Formatted the data into a table structure.
-Converted data types to ensure consistency
-The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
++ Split certain columns where necessary.
++ Formatted the data into a table structure.
++ Converted data types to ensure consistency
++ The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
 ![DataStandard](https://github.com/user-attachments/assets/8dd1a2a6-3ba1-4d48-834a-23b792cceeb9)
 
@@ -42,6 +42,23 @@ The dataset Gen Z Career Aspiration dataset has 29 columns and 3918 rows.
 
 **Data Analysis**
 To uncover meaningful insights from the Gen Z career aspiration data, pivot tables were employed, enabling the analysis to effectively answer key business questions given by Kulturehire and other relevant hidden insights.
+
+![learning dash](https://github.com/user-attachments/assets/7ba377d8-d4d1-4d05-812c-b2d29dec102f)
+
+To gain a deeper understanding of Gen Z career aspirations, four comprehensive dashboards were created.
+
++ First Dashboard (Gen Z career Aspiration) visulized the:
++ Total Respondents
++ Male%
++ Female%
++ Top 5 Career Aspiration
++ Prefered Company
++ Deal Breaker Company
++ Most Common Work Frustrations
++ Higher Education Aspiration
++ Preferred Work Setup
++ Organization Adrift
++ Minmum Expected Salary
 
 
 
